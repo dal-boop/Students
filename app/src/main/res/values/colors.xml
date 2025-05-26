@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="accent_light">#BBDEFB</color>
+    <color name="background_light">#BBDEFB</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="grade2">#F44336</color>  <!-- красный -->
+    <color name="grade3">#FF9800</color>  <!-- оранжевый -->
+    <color name="grade4">#8BC34A</color>  <!-- салатовый -->
+    <color name="grade5">#4CAF50</color>
+    <color name="gray">#9E9E9E</color>
+
+</resources>
